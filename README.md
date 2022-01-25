@@ -2,7 +2,7 @@
 This is the implementation of an air conditioner project.
 
 ## Introduction 
-An air conditioner project that controls the Fan speed and adjusts the room temperature according to the desired temperature and current temperature. 
+An air conditioner project that controls the Fan speed and adjusts the room temperature according to the desired temperature and the current temperature. 
 The system was designed using multiple sensors that all interface with ATmega32 MCU.
 #### Used Sensors : 
 - Temperature sensor (LM35) 
